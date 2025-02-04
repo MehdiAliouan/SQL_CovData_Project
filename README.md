@@ -2,7 +2,7 @@
 
 ### Situation:
 
-The project involves exploring and analyzing Covid-19 data from 2020 to 2021 using SQL Server. The data is sourced from Our World in Data.
+The project involves exploring and analyzing Covid-19 data from 2020 to 2021 using SQL Server. The data is sourced from [Our_World_in_Data](https://ourworldindata.org/covid-deaths)
 
 ### Task:
 
@@ -30,7 +30,8 @@ Joined Covid-19 death data with vaccination data to calculate rolling totals of 
 Used Common Table Expressions (CTEs) and temporary tables to compute the vaccination percentage of the population.
 
 #### Visualization:
-Created a view to store data for later visualizations in Tableau Public.
+Created a view to store data for later visualizations in Tableau Public : [Tableau_Visualization](https://public.tableau.com/app/profile/el.mehdi.aliouan4405/viz/CovidDashboard_16738012660980/Dashboard1#1)
+
 
 ### Result:
 
@@ -39,16 +40,3 @@ The analysis provided insights into infection and death rates across different c
 ### Reflection:
 
 The project successfully utilized SQL to analyze and extract insights from Covid-19 data. Future improvements could include more granular analysis, such as regional breakdowns within countries or time-series analysis to observe trends over time.
-
-
-
-
-
-
-
-
-
-#### I've explore and analyse Covid Data from 2020 to 2021 using SQLserver and Visualization with Tableau Public
-#### The Data was taking from [Our_World_in_Data](https://ourworldindata.org/covid-deaths)
-
-[Tableau_Visualization](https://public.tableau.com/app/profile/el.mehdi.aliouan4405/viz/CovidDashboard_16738012660980/Dashboard1#1)
